@@ -15,3 +15,7 @@ libraryDependencies +="com.typesafe.akka" %% "akka-testkit" % "2.1.0"
 libraryDependencies +="com.typesafe.akka" %% "akka-transactor" % "2.1.0"
 
 libraryDependencies += "org.scalatest" % "scalatest_2.10" % "1.9.1"
+
+libraryDependencies += "joda-time" % "joda-time" % "2.2"
+
+libraryDependencies += "org.joda" % "joda-convert" % "1.2"
